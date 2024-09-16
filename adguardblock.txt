@@ -1,10 +1,10 @@
 device-metrics-us.amazon.com.wp7s.com
-#albert.apple.com
-#iprofiles.apple.com
-#mdmenrollment.apple.com
+albert.apple.com
+iprofiles.apple.com
+mdmenrollment.apple.com
 deviceenrollment.apple.com
 fork.night.com
-#acmdm.apple.com
+acmdm.apple.com
 ic.adobe.io
 r3zj0yju1q.adobe.io
 cd536oo20y.adobe.io
